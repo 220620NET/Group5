@@ -1,5 +1,4 @@
-﻿// See https://aka.ms/new-console-template for more information
-Console.WriteLine("What would you like to be your ending number?");
+﻿Console.WriteLine("What would you like to be your ending number?");
 int endingNumber = Convert.ToInt32(Console.ReadLine());
 
 for (int i = 1; i <= endingNumber; i++)
